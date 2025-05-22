@@ -28,13 +28,13 @@ Project is created with:
 [Presentation](https://docs.google.com/presentation/d/1AhaYhJrfhVwUq3zapn2oKHOmIzpGKdsX/edit?usp=sharing&ouid=116124799172851730572&rtpof=true&sd=true)
 
 ## class diagram
-![star uml](https://github.com/siva010928/Job-Portal/blob/main/class_diagram.jpg)
+![star uml](https://github.com/nitingoyal-1/Job-Portal/blob/main/class_diagram.jpg)
 
 ## flow diagram
-![miro](https://github.com/siva010928/Job-Portal/blob/main/activity_flow_diagram.jpg)
+![miro](https://github.com/nitingoyal-1/Job-Portal/blob/main/activity_flow_diagram.jpg)
 
 ## database design
-![mysql](https://github.com/siva010928/Job-Portal/blob/main/db.png)
+![mysql](https://github.com/nitingoyal-1/Job-Portal/blob/main/db.png)
 ## Features
 #### Job Seekers
         * search,filter,view job details and apply to the job
